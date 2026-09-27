@@ -1,11 +1,11 @@
-# 📊 Amazon Sales Data Analysis
+#  Amazon Sales Data Analysis
 
-## 📌 Project Overview
+##   Project Overview
 This project performs Exploratory Data Analysis (EDA) on Amazon product sales data to identify patterns and insights related to pricing, discounts, ratings, product categories, and product popularity.
 
 The project demonstrates practical data analytics skills using Python, Pandas, NumPy, Matplotlib, and Seaborn.
 
-## 🎯 Objectives
+##   Objectives
 - Analyze product categories and ratings
 - Identify popular products
 - Compare actual and discounted prices
@@ -15,7 +15,7 @@ The project demonstrates practical data analytics skills using Python, Pandas, N
 - Answer business-related questions using data
 - Generate meaningful insights from the dataset
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Python
 - Pandas
 - NumPy
@@ -24,7 +24,7 @@ The project demonstrates practical data analytics skills using Python, Pandas, N
 - SciPy
 - Jupyter Notebook
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 ### 1. Data Understanding
 - Dataset shape and structure
 - Column analysis
@@ -47,7 +47,7 @@ The project demonstrates practical data analytics skills using Python, Pandas, N
 ### 4. Data Visualization
 The notebook includes visualizations for product categories, prices, ratings, discounts, and relationships between variables.
 
-## ❓ Business Questions
+##  Business Questions
 The project explores questions such as:
 1. What is the average rating for each product category?
 2. What is the number of unique products?
@@ -59,7 +59,7 @@ The project explores questions such as:
 8. What are the most popular products?
 9. What is the relationship between price and rating?
 
-## 📈 Key Insights
+##   Key Insights
 The analysis identifies patterns in:
 - Product ratings and reviews
 - Product pricing
@@ -70,7 +70,7 @@ The analysis identifies patterns in:
 
 For the detailed results and visualizations, see `Amazon_proj.ipynb`.
 
-## 📂 Project Structure
+##  Project Structure
 ```text
 Amazon-Sales-Data-Analysis/
 │
@@ -80,13 +80,10 @@ Amazon-Sales-Data-Analysis/
 ├── .gitignore
 │
 ├── data/
-│   └── README.md
-│
-└── images/
-    └── README.md
-```
+   └── README.md
 
-## 🚀 How to Run
+
+##  How to Run
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/YOUR-USERNAME/Amazon-Sales-Data-Analysis.git
@@ -104,7 +101,7 @@ jupyter notebook Amazon_proj.ipynb
 
 Run the notebook cells from top to bottom.
 
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 - Data Cleaning
 - Exploratory Data Analysis
 - Data Manipulation
@@ -116,7 +113,7 @@ Run the notebook cells from top to bottom.
 - Matplotlib
 - Seaborn
 
-## 👨‍💻 Author
+##  Author
 **Anish Kadam**
 
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
